@@ -13,7 +13,7 @@ Electronic Components Used:
 
 Video detailing the project: https://www.youtube.com/watch?v=h90fW9QRp7o&t=8s&ab_channel=SrinjoyChoudhury
 
-The function that you'll want to run on your computer is "DeploymentV8Shared.py"
+The function that you'll want to run on your computer is "DeploymentV8Shared.py", 
 run "arduinoBluetoothComms.ino" on the Arduino,
 and run "ExodusClient.py" on the Raspberry Pi
 
