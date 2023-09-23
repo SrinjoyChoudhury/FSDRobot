@@ -11,4 +11,6 @@ Electronic Components Used:
 - HC-05 Bluetooth Module
 - A PC that can run PyTorch models relatively well
 
+Video detailing the project: https://www.youtube.com/watch?v=h90fW9QRp7o&t=8s&ab_channel=SrinjoyChoudhury
+
 Good luck have fun :)
